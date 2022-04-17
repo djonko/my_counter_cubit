@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "dartImport.fixOnSave": true,
+    "errorLens.onSave": true
+}
